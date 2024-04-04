@@ -18,7 +18,7 @@
 9. [Bowlers/Tailenders](Bowlers-Tailenders)
 10. ### Final 11
 11. [Potential 11](Potential--11)
-12. ###Predictions
+12. ### Predictions
 13. [My Prediction](Predictions)
 14. ### Final Note
 
