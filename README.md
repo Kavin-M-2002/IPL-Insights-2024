@@ -45,7 +45,7 @@ To enhance brand visibility and drive website traffic for Sports Basics, through
 * Predictions: Make predictions for highest run getters and wicket takers, and playoffs qualifying teams as well.
 #
 
-## Openers or Power Hitters:
+## Openers or Power Hitters
 [🔁Home](#table-of-content)
 
 For creating top order, I have selected certain players or batsmen where they comes under the certain criteria:
@@ -60,7 +60,7 @@ The following report page represents the players who are comes under the aforeme
 
 ![image](https://github.com/Kavin-M-2002/IPL-Insights-2024/assets/97793013/55132f8b-7d65-457a-a516-b642e47b2ddb)
 
-##Anchors or Middle Order Batsmen:
+## Anchors or Middle Order Batsmen
 [🔁Home](#table-of-content)
 
 For creating middle order, I have selected certain players or batsmen where they comes under the certain criteria:
@@ -77,7 +77,7 @@ The following report page represents the players who are comes under the aforeme
 ![image](https://github.com/Kavin-M-2002/IPL-Insights-2024/assets/97793013/2ecc877e-4c4e-4101-8957-2ba17698b03b)
 
 
-## Finisher or Lower Order Anchor:
+## Finisher or Lower Order Anchor
 [🔁Home](#table-of-content)
 
 For creating Slog batsmen, I have selected certain players or batsmen where they comes under the certain criteria:
@@ -93,7 +93,7 @@ The following report page represents the players who are comes under the aforeme
 
 ![image](https://github.com/Kavin-M-2002/IPL-Insights-2024/assets/97793013/8fb7b3d9-0e7d-4a7f-a65a-cbaede51dafc)
 
-## All Rounders or Lower Order Anchors:
+## All Rounders or Lower Order Anchors
 [🔁Home](#table-of-content)
 
 For creating top order, I have selected certain players or batsmen where they comes under the certain criteria:
@@ -109,7 +109,7 @@ The following report page represents the players who are comes under the aforeme
 
 ![image](https://github.com/Kavin-M-2002/IPL-Insights-2024/assets/97793013/b6f07701-d942-4302-b5f2-393dd4470068)
 
-## Bowlers or Tailenders:
+## Bowlers or Tailenders
 [🔁Home](#table-of-content)
 
 For creating bowling attack, I have selected certain players or batsmen where they comes under the certain criteria:
@@ -123,7 +123,7 @@ The following report page represents the players who are comes under the aforeme
 
 ![image](https://github.com/Kavin-M-2002/IPL-Insights-2024/assets/97793013/afcbe7a7-6243-483d-b961-7465d3485fc9)
 
-## Final 11:
+## Final 11
 [🔁Home](#table-of-content)
 
 I've made a potential squad based on extensive research and players who are excelled the mentioned criterion.
@@ -132,7 +132,7 @@ I've made a potential squad based on extensive research and players who are exce
 
 **Note**: I've also enabled player selection feature where the viewers can add the player names by searching on the player column and it will affects the team's overall performance after an inclusion of any player.
 
-## Predictions:
+## Predictions
 
 Eventually, I made a list of predictions based on the acquired insights and additional reasearch.
 
@@ -140,7 +140,7 @@ Eventually, I made a list of predictions based on the acquired insights and addi
 
 #
 
-## Final Note:
+## Final Note
 [🔁Home](#table-of-content)
 
 I have created this interactive and intuitive dashboard or report based on the last 3 years of data. However these results and predictions may vary after extensive research and collection of more data.
