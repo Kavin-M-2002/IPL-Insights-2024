@@ -7,24 +7,24 @@
 
 #
 ## Table of Content
-1. [About Sports Basics Blog Company](#about-sports-basics)
+1. [About Sports Basics](#about-sports-basics)
 2. [Objective of the Project](#objective-of-the-project)
 3. [Problem Statement](#problem-statement)
 4. ### Player Analysis
-5. [Openers or Power Hitters](openers-powerhitters)
-6. [Anchors or Middle Order Batsmen](Anchors-Middle-order-batsmen)
-7. [Finishers or Lower Order Anchors](Finishers-Lower-order-anchors)
-8. [All Rounder or Lower Order](Allrounder-Lower-order)
-9. [Bowlers or Tailenders](Bowlers-Tailenders)
+5. [Openers or Power Hitters](#openers-powerhitters)
+6. [Anchors or Middle Order Batsmen](#Anchors-Middle-order-batsmen)
+7. [Finishers or Lower Order Anchors](#Finishers-Lower-order-anchors)
+8. [All Rounder or Lower Order](#Allrounder-Lower-order)
+9. [Bowlers or Tailenders](#Bowlers-Tailenders)
 10. ### Final 11
-11. [Final 11](Final-11)
+11. [Final 11](#Final-11)
 12. ### Predictions
-13. [Predictions](Predictions)
+13. [Predictions](#Predictions)
 14. ### Final Note
-15. [Final Note](Final-Note)
+15. [Final Note](#Final-Note)
 
 #
-### About Sports Basics Blog Company
+### About Sports Basics
 [🔁Home](#table-of-content)
 
 Sports Basics is a sports blog company that entered space recently.  They wanted to get more traffic to their website by releasing a special edition magazine on IPL 2024.  
@@ -141,6 +141,7 @@ Eventually, I made a list of predictions based on the acquired insights and addi
 #
 
 ## Final Note:
+[🔁Home](#table-of-content)
 
 I have created this interactive and intuitive dashboard or report based on the last 3 years of data. However these results and predictions may vary after extensive research and collection of more data.
 
