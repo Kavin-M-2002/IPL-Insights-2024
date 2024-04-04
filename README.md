@@ -81,13 +81,13 @@ The following report page represents the players who are comes under the aforeme
 [🔁Home](#table-of-content)
 
 For creating Slog batsmen, I have selected certain players or batsmen where they comes under the certain criteria:
-> Batting Position - **Greater than 4**
-> Batting Average - **Greater than 25**
-> Balls Faced - **Greater than 12**
-> Economy - **Less than 10**
-> Strike Rate - **Greater than 130**
-> Innings Batted - **Greater than 2**
-> Innings Bowled - **Greater than 2**
+> * Batting Position - **Greater than 4**
+> * Batting Average - **Greater than 25**
+> * Balls Faced - **Greater than 12**
+> * Economy - **Less than 10**
+> * Strike Rate - **Greater than 130**
+> * Innings Batted - **Greater than 2**
+> * Innings Bowled - **Greater than 2**
 
 The following report page represents the players who are comes under the aforementioned criteria:
 
@@ -97,13 +97,13 @@ The following report page represents the players who are comes under the aforeme
 [🔁Home](#table-of-content)
 
 For creating top order, I have selected certain players or batsmen where they comes under the certain criteria:
-> Batting Position - **Greater than 4**
-> Batting Average - **Greater than 15**
-> Balls Faced - **Greater than 12**
-> Runs - **Less than 200**
-> Strike Rate - **Greater than 140**
-> Innings Batted - **Greater than 3**
-> Innings Bowled - **Greater than 1**
+> * Batting Position - **Greater than 4**
+> * Batting Average - **Greater than 15**
+> * Balls Faced - **Greater than 12**
+> * Runs - **Less than 200**
+> * Strike Rate - **Greater than 140**
+> * Innings Batted - **Greater than 3**
+> * Innings Bowled - **Greater than 1**
 
 The following report page represents the players who are comes under the aforementioned criteria:
 
@@ -112,12 +112,12 @@ The following report page represents the players who are comes under the aforeme
 ## Bowlers or Tailenders:
 [🔁Home](#table-of-content)
 
-For creating top order, I have selected certain players or batsmen where they comes under the certain criteria:
-> Bowling Average - **Less than 25**
-> Bowling Strike Rate - **Less than 20**
-> Dot Ball % - **Greater than 40%** 
-> Economy - **Less than 9**
-> Innings Bowled - **Greater than 15**
+For creating bowling attack, I have selected certain players or batsmen where they comes under the certain criteria:
+> * Bowling Average - **Less than 25**
+> * Bowling Strike Rate - **Less than 20**
+> * Dot Ball % - **Greater than 40%** 
+> * Economy - **Less than 9**
+> * Innings Bowled - **Greater than 15**
 
 The following report page represents the players who are comes under the aforementioned criteria:
 
