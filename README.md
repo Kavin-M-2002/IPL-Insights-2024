@@ -7,20 +7,21 @@
 
 #
 ## Table of Content
-1. [About Sports Basics](#about-sports-basics)
+1. [About Sports Basics Blog Company](#about-sports-basics)
 2. [Objective of the Project](#objective-of-the-project)
 3. [Problem Statement](#problem-statement)
 4. ### Player Analysis
-5. [Openers/Power Hitters](openers-powerhitters)
-6. [Anchors/Middle Order Batsmen](Anchors-Middle-order-batsmen)
-7. [Finishers/Lower Order Anchors](Finishers-Lower-order-anchors)
-8. [All Rounder/Lower Order](Allrounder-Lower-order)
-9. [Bowlers/Tailenders](Bowlers-Tailenders)
+5. [Openers or Power Hitters](openers-powerhitters)
+6. [Anchors or Middle Order Batsmen](Anchors-Middle-order-batsmen)
+7. [Finishers or Lower Order Anchors](Finishers-Lower-order-anchors)
+8. [All Rounder or Lower Order](Allrounder-Lower-order)
+9. [Bowlers or Tailenders](Bowlers-Tailenders)
 10. ### Final 11
-11. [Potential 11](Potential--11)
+11. [Final 11](Final-11)
 12. ### Predictions
-13. [My Prediction](Predictions)
+13. [Predictions](Predictions)
 14. ### Final Note
+15. [Final Note](Final-Note)
 
 #
 ### About Sports Basics Blog Company
