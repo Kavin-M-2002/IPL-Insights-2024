@@ -1,8 +1,8 @@
 #  CRPC10: Sports Basics: Analysis and deriving insights for the ongoing Indian Premier League 2024.
 
-## Created by - Kavin M [LinkedIn Profile] (https://www.linkedin.com/in/kavin-2002m19/)
+## Created by - Kavin M [LinkedIn Profile](https://www.linkedin.com/in/kavin-2002m19/)
 
-### Live Dashboard at Novypro [Live_link_Novypro] (https://www.novypro.com/project/ipl-insights-2024-power-bi)
+### Live Dashboard at Novypro [Live_link_Novypro](https://www.novypro.com/project/ipl-insights-2024-power-bi)
 ### Linkeldin post for this project [Link]
 
 #
