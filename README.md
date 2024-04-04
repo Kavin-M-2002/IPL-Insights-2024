@@ -49,12 +49,12 @@ To enhance brand visibility and drive website traffic for Sports Basics, through
 [🔁Home](#table-of-content)
 
 For creating top order, I have selected certain players or batsmen where they comes under the certain criteria:
-> Batting Position - **Less than 4**
-> Batting Average - **Greater than 30**
-> Boundary % - **Greater than 50%**
-> Strike Rate - **Greater than 140**
-> Innings Batted - **Greater than 3**
-> Runs - **Greater than 400**
+> * Batting Position - **Less than 4**
+> * Batting Average - **Greater than 30**
+> * Boundary % - **Greater than 50%**
+> * Strike Rate - **Greater than 140**
+> * Innings Batted - **Greater than 3**
+> * Runs - **Greater than 400**
 
 The following report page represents the players who are comes under the aforementioned criteria:
 
