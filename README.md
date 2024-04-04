@@ -64,13 +64,13 @@ The following report page represents the players who are comes under the aforeme
 [🔁Home](#table-of-content)
 
 For creating middle order, I have selected certain players or batsmen where they comes under the certain criteria:
-> Batting Position - **Greater than 2**
-> Batting Average - **Greater than 40**
-> Boundary % - **Greater than 50%**
-> Strike Rate - **Greater than 125**
-> Innings Batted - **Greater than 3**
-> Runs - **Greater than 450**
-> Balls Faced - **Greater than 20**
+> * Batting Position - **Greater than 2**
+> * Batting Average - **Greater than 40**
+> * Boundary % - **Greater than 50%**
+> * Strike Rate - **Greater than 125**
+> * Innings Batted - **Greater than 3**
+> * Runs - **Greater than 450**
+> * Balls Faced - **Greater than 20**
 
 The following report page represents the players who are comes under the aforementioned criteria:
 
